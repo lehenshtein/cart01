@@ -1,0 +1,26 @@
+{
+    "1111" : {
+        "name" : "Stromtrooper",
+        "price" : 200,
+        "description" : "Штурмовик, иногда косой.",
+        "image" : "images/trooper.jpg"
+    },
+     "1112" : {
+        "name" : "Darth Vader",
+        "price" : 400,
+        "description" : "Злой",
+        "image" : "images/vader.jpg"
+    },
+    "1113" : {
+        "name" : "General Grievous",
+        "price" : 300,
+        "description" : "У него 4 меча",
+        "image" : "images/grivus.jpg"
+    },
+     "1114" : {
+        "name" : "Laser Saber",
+        "price" : 1000,
+        "description" : "Настоящий световой меч",
+        "image" : "images/saber.jpg"
+    }
+}
